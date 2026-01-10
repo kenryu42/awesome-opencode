@@ -50,8 +50,7 @@
 |[opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth)|![GitHub Repo stars](https://badgen.net/github/stars/jenslys/opencode-gemini-auth)|Authenticate the Opencode CLI with your Google account so you can use your existing Gemini plan and its included quota instead of API billing|
 |[opencode-direnv](https://github.com/simonwjackson/opencode-direnv)|![GitHub Repo stars](https://badgen.net/github/stars/simonwjackson/opencode-direnv)|Automatically loads direnv environment variables at session start. Perfect for Nix flakes and project-specific environments.|
 |[oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)|![GitHub Repo stars](https://badgen.net/github/stars/code-yeongyu/oh-my-opencode)|Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a Claude Code compatible layer.|
-|[plannotator](https://github.com/backnotprop/plannotator)|![GitHub Repo stars](https://badgen.net/github/stars/backnotprop/plannotator)|Interactive plan review with visual annotation and private/offline sharing.|
-|[@openspoon/subtask2](https://github.com/spoons-and-mirrors/subtask2)|![GitHub Repo stars](https://badgen.net/github/stars/spoons-and-mirrors/subtask2)|Extend opencode /commands into a powerful orchestration system with granular flow control.|
+|[octto](https://github.com/vtemian/octto)|![GitHub Repo stars](https://badgen.net/github/stars/vtemian/octto)|Interactive browser UI for AI brainstorming with multi-question forms, parallel exploration branches, and visual feedback.|
 |[micode](https://github.com/vtemian/micode)|![GitHub Repo stars](https://badgen.net/github/stars/vtemian/micode)|Structured Brainstorm -> Plan -> Implement workflow with session continuity, subagents, and git worktree isolation.|
 |[opencode-ralph-wiggum](https://github.com/Th0rgal/opencode-ralph-wiggum)|![GitHub Repo stars](https://badgen.net/github/stars/Th0rgal/opencode-ralph-wiggum)|Iterative AI development loops with self-correcting agents. Based on the Ralph Wiggum technique.|
 |[opencode-background-agents](https://github.com/kdcokenny/opencode-background-agents)|![GitHub Repo stars](https://badgen.net/github/stars/kdcokenny/opencode-background-agents)|Claude Code-style background agents with async delegation and context persistence.|
@@ -61,6 +60,8 @@
 |[opencode-morph-fast-apply](https://github.com/JRedeker/opencode-morph-fast-apply)|![GitHub Repo stars](https://badgen.net/github/stars/JRedeker/opencode-morph-fast-apply)|10x faster code editing with Morph Fast Apply API and lazy edit markers.|
 |[opencode-shell-strategy](https://github.com/JRedeker/opencode-shell-strategy)|![GitHub Repo stars](https://badgen.net/github/stars/JRedeker/opencode-shell-strategy)|Instructions for non-interactive shell commands - prevents hangs from TTY-dependent operations.|
 |[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)|![GitHub Repo stars](https://badgen.net/github/stars/MasuRii/opencode-smart-voice-notify)|Smart voice notification plugin with multiple TTS engines (ElevenLabs, Edge TTS, SAPI) and intelligent reminder system.|
+|[plannotator](https://github.com/backnotprop/plannotator)|![GitHub Repo stars](https://badgen.net/github/stars/backnotprop/plannotator)|Interactive plan review with visual annotation and private/offline sharing.|
+|[@openspoon/subtask2](https://github.com/spoons-and-mirrors/subtask2)|![GitHub Repo stars](https://badgen.net/github/stars/spoons-and-mirrors/subtask2)|Extend opencode /commands into a powerful orchestration system with granular flow control.|
 ➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/plugins)**
 
 ## Themes
