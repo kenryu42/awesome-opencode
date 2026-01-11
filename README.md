@@ -35,47 +35,14 @@
 
 <div id="official"></div>
 
-<details open>
-<summary><strong>⭐️ OFFICIAL REPOSITORIES</strong></summary>
-<br>
+<h3>⭐️ Official Repositories</h3>
 
-<details>
-  <summary><b>opencode</b> <img src="https://badgen.net/github/stars/sst/opencode" height="14"/> - <i>The official AI coding agent</i></summary>
-  <blockquote>
-    The official opencode AI coding agent.
-    <br><br>
-    <a href="https://github.com/sst/opencode">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>opencode-sdk-js</b> <img src="https://badgen.net/github/stars/sst/opencode-sdk-js" height="14"/> - <i>JavaScript/TypeScript SDK</i></summary>
-  <blockquote>
-    Official JavaScript/TypeScript SDK for opencode.
-    <br><br>
-    <a href="https://github.com/sst/opencode-sdk-js">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>opencode-sdk-go</b> <img src="https://badgen.net/github/stars/sst/opencode-sdk-go" height="14"/> - <i>Go SDK</i></summary>
-  <blockquote>
-    Official Go SDK for opencode.
-    <br><br>
-    <a href="https://github.com/sst/opencode-sdk-go">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>opencode-sdk-python</b> <img src="https://badgen.net/github/stars/sst/opencode-sdk-python" height="14"/> - <i>Python SDK</i></summary>
-  <blockquote>
-    Official Python SDK for opencode.
-    <br><br>
-    <a href="https://github.com/sst/opencode-sdk-python">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-</details>
+| Project | Stars | Description |
+| :--- | :--- | :--- |
+| **[opencode](https://github.com/sst/opencode)** | ![Stars](https://badgen.net/github/stars/sst/opencode) | The official opencode AI coding agent. |
+| **[opencode-sdk-js](https://github.com/sst/opencode-sdk-js)** | ![Stars](https://badgen.net/github/stars/sst/opencode-sdk-js) | Official JavaScript/TypeScript SDK for opencode. |
+| **[opencode-sdk-go](https://github.com/sst/opencode-sdk-go)** | ![Stars](https://badgen.net/github/stars/sst/opencode-sdk-go) | Official Go SDK for opencode. |
+| **[opencode-sdk-python](https://github.com/sst/opencode-sdk-python)** | ![Stars](https://badgen.net/github/stars/sst/opencode-sdk-python) | Official Python SDK for opencode. |
 
 <br>
 
@@ -86,110 +53,11 @@
 <br>
 
 <details>
-  <summary><b>Agent Memory</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-agent-memory" height="14"/> - <i>Letta-style editable memory blocks for persistent context across sessions.</i></summary>
+  <summary><b>Ring a Bell Example</b> - <i>Simple terminal bell plugin</i></summary>
   <blockquote>
-    Letta-style editable memory blocks for persistent context across sessions.
+    A simple plugin to ring the terminal bell once a request is complete.
     <br><br>
-    <a href="https://github.com/joshuadavidthomas/opencode-agent-memory">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Agent Skills</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-agent-skills" height="14"/> - <i>Dynamic skills loader from project, user, and plugin directories.</i></summary>
-  <blockquote>
-    Dynamic skills loader from project, user, and plugin directories.
-    <br><br>
-    <a href="https://github.com/joshuadavidthomas/opencode-agent-skills">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Antigravity Auth</b> <img src="https://badgen.net/github/stars/NoeFabris/opencode-antigravity-auth" height="14"/> - <i>Authenticate with Google's Antigravity IDE via OAuth to use Gemini 3 Pro High and Claude Opus/Sonnet models.</i></summary>
-  <blockquote>
-    Authenticate with Google's Antigravity IDE via OAuth to use Gemini 3 Pro High and Claude Opus/Sonnet models.
-    <br><br>
-    <a href="https://github.com/NoeFabris/opencode-antigravity-auth">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Antigravity Multi-Auth</b> <img src="https://badgen.net/github/stars/theblazehen/opencode-antigravity-multi-auth" height="14"/> - <i>Fork adding multi-account Google OAuth support with automatic rotation to bypass rate limits.</i></summary>
-  <blockquote>
-    Fork adding multi-account Google OAuth support with automatic rotation to bypass rate limits.
-    <br><br>
-    <a href="https://github.com/theblazehen/opencode-antigravity-multi-auth">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Background</b> <img src="https://badgen.net/github/stars/zenobi-us/opencode-background" height="14"/> - <i>Background process management</i></summary>
-  <blockquote>
-    Background process management plugin for opencode.
-    <br><br>
-    <a href="https://github.com/zenobi-us/opencode-background">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Beads Integration</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-beads" height="14"/> - <i>Integration for Steve Yegge's beads issue tracker with /bd-* commands.</i></summary>
-  <blockquote>
-    Integration for Steve Yegge's beads issue tracker with /bd-* commands.
-    <br><br>
-    <a href="https://github.com/joshuadavidthomas/opencode-beads">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Context Analysis</b> <img src="https://badgen.net/github/stars/IgorWarzocha/Opencode-Context-Analysis-Plugin" height="14"/> - <i>Token usage analysis</i></summary>
-  <blockquote>
-    An opencode plugin that provides detailed token usage analysis for your AI sessions.
-    <br><br>
-    <a href="https://github.com/IgorWarzocha/Opencode-Context-Analysis-Plugin">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Devcontainers</b> <img src="https://badgen.net/github/stars/athal7/opencode-devcontainers" height="14"/> - <i>Run multiple devcontainer instances with auto-assigned ports.</i></summary>
-  <blockquote>
-    Run multiple devcontainer instances with auto-assigned ports.
-    <br><br>
-    <a href="https://github.com/athal7/opencode-devcontainers">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Direnv</b> <img src="https://badgen.net/github/stars/simonwjackson/opencode-direnv" height="14"/> - <i>Load direnv variables</i></summary>
-  <blockquote>
-    Automatically loads direnv environment variables at session start. Perfect for Nix flakes.
-    <br><br>
-    <a href="https://github.com/simonwjackson/opencode-direnv">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Dynamic Context Pruning</b> <img src="https://badgen.net/github/stars/Tarquinen/opencode-dynamic-context-pruning" height="14"/> - <i>Optimize token usage</i></summary>
-  <blockquote>
-    Plugin that optimises token usage by pruning obsolete tool outputs from conversation context.
-    <br><br>
-    <a href="https://github.com/Tarquinen/opencode-dynamic-context-pruning">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Froggy</b> <img src="https://badgen.net/github/stars/smartfrog/opencode-froggy" height="14"/> - <i>Claude Code-style hooks, specialized agents, and commands like simplify-code and review-pr.</i></summary>
-  <blockquote>
-    Claude Code-style hooks, specialized agents, and commands like simplify-code and review-pr.
-    <br><br>
-    <a href="https://github.com/smartfrog/opencode-froggy">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Gemini Auth</b> <img src="https://badgen.net/github/stars/jenslys/opencode-gemini-auth" height="14"/> - <i>Google account auth</i></summary>
-  <blockquote>
-    Authenticate the Opencode CLI with your Google account so you can use your existing Gemini plan.
-    <br><br>
-    <a href="https://github.com/jenslys/opencode-gemini-auth">🔗 <b>View Repository</b></a>
+    <a href="https://gist.github.com/ahosker/267f375a65378bcb9a867fd9a195db1e#file-opencode-terminal-bell-plugin-md">🔗 <b>View Gist</b></a>
   </blockquote>
 </details>
 
@@ -203,47 +71,11 @@
 </details>
 
 <details>
-  <summary><b>Handoff</b> <img src="https://badgen.net/github/stars/joshuadavidthomas/opencode-handoff" height="14"/> - <i>Creates focused handoff prompts for continuing work in new sessions.</i></summary>
+  <summary><b>Context Analysis</b> <img src="https://badgen.net/github/stars/IgorWarzocha/Opencode-Context-Analysis-Plugin" height="14"/> - <i>Token usage analysis</i></summary>
   <blockquote>
-    Creates focused handoff prompts for continuing work in new sessions.
+    An opencode plugin that provides detailed token usage analysis for your AI sessions.
     <br><br>
-    <a href="https://github.com/joshuadavidthomas/opencode-handoff">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Model Announcer</b> <img src="https://badgen.net/github/stars/ramarivera/opencode-model-announcer" height="14"/> - <i>Injects current model name into chat context for LLM self-awareness.</i></summary>
-  <blockquote>
-    Injects current model name into chat context for LLM self-awareness.
-    <br><br>
-    <a href="https://github.com/ramarivera/opencode-model-announcer">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Oh My Opencode</b> <img src="https://badgen.net/github/stars/code-yeongyu/oh-my-opencode" height="14"/> - <i>Agents & Pre-built tools</i></summary>
-  <blockquote>
-    Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a Claude Code compatible layer.
-    <br><br>
-    <a href="https://github.com/code-yeongyu/oh-my-opencode">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>OpenAI Codex Auth</b> <img src="https://badgen.net/github/stars/numman-ali/opencode-openai-codex-auth" height="14"/> - <i>ChatGPT Plus/Pro OAuth</i></summary>
-  <blockquote>
-    This plugin enables opencode to use OpenAI's Codex backend via ChatGPT Plus/Pro OAuth authentication.
-    <br><br>
-    <a href="https://github.com/numman-ali/opencode-openai-codex-auth">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>OpenHax Codex</b> <img src="https://badgen.net/github/stars/open-hax/codex" height="14"/> - <i>OAuth authentication</i></summary>
-  <blockquote>
-    OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions.
-    <br><br>
-    <a href="https://github.com/open-hax/codex">🔗 <b>View Repository</b></a>
+    <a href="https://github.com/IgorWarzocha/Opencode-Context-Analysis-Plugin">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -253,132 +85,6 @@
     Plugin to ignore directory/file based on pattern.
     <br><br>
     <a href="https://github.com/lgladysz/opencode-ignore">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Opencode Roadmap</b> <img src="https://badgen.net/github/stars/IgorWarzocha/Opencode-Roadmap" height="14"/> - <i>Strategic planning</i></summary>
-  <blockquote>
-    Strategic roadmap planning and multi-agent coordination plugin. Provides project-wide planning capabilities.
-    <br><br>
-    <a href="https://github.com/IgorWarzocha/Opencode-Roadmap">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Opencode Sessions</b> <img src="https://badgen.net/github/stars/malhashemi/opencode-sessions" height="14"/> - <i>Session management</i></summary>
-  <blockquote>
-    Session management plugin for OpenCode with multi-agent collaboration support.
-    <br><br>
-    <a href="https://github.com/malhashemi/opencode-sessions">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Opencode Skills</b> <img src="https://badgen.net/github/stars/malhashemi/opencode-skills" height="14"/> - <i>Manage skills and capabilities</i></summary>
-  <blockquote>
-    Plugin for managing and organising opencode skills and capabilities.
-    <br><br>
-    <a href="https://github.com/malhashemi/opencode-skills">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Optimal Model Temps</b> <img src="https://badgen.net/github/stars/Lyapsus/opencode-optimal-model-temps" height="14"/> - <i>Nudges models like Gemini 3 Pro to their optimal temperature.</i></summary>
-  <blockquote>
-    Nudges models like Gemini 3 Pro to their optimal temperature.
-    <br><br>
-    <a href="https://github.com/Lyapsus/opencode-optimal-model-temps">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Openskills</b> <img src="https://badgen.net/github/stars/numman-ali/openskills" height="14"/> - <i>Alternative skills manager</i></summary>
-  <blockquote>
-    Alternative skills management plugin for opencode with enhanced features.
-    <br><br>
-    <a href="https://github.com/numman-ali/openskills">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Pilot</b> <img src="https://badgen.net/github/stars/athal7/opencode-pilot" height="14"/> - <i>Automation daemon that polls GitHub/Linear and spawns OpenCode sessions.</i></summary>
-  <blockquote>
-    Automation daemon that polls GitHub/Linear and spawns OpenCode sessions.
-    <br><br>
-    <a href="https://github.com/athal7/opencode-pilot">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Ring a Bell Example</b> - <i>Simple terminal bell plugin</i></summary>
-  <blockquote>
-    A simple plugin to ring the terminal bell once a request is complete.
-    <br><br>
-    <a href="https://gist.github.com/ahosker/267f375a65378bcb9a867fd9a195db1e#file-opencode-terminal-bell-plugin-md">🔗 <b>View Gist</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Simple Memory</b> <img src="https://badgen.net/github/stars/cnicolov/opencode-plugin-simple-memory" height="14"/> - <i>Persistent memory plugin for context across sessions.</i></summary>
-  <blockquote>
-    Persistent memory plugin for context across sessions.
-    <br><br>
-    <a href="https://github.com/cnicolov/opencode-plugin-simple-memory">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Smart Title</b> <img src="https://badgen.net/github/stars/Tarquinen/opencode-smart-title" height="14"/> - <i>Auto-generate session titles</i></summary>
-  <blockquote>
-    Auto-generates meaningful session titles using AI.
-    <br><br>
-    <a href="https://github.com/Tarquinen/opencode-smart-title">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Subtask2</b> <img src="https://badgen.net/github/stars/spoons-and-mirrors/subtask2" height="14"/> - <i>Orchestration system</i></summary>
-  <blockquote>
-    Extend opencode /commands into a powerful orchestration system with granular flow control.
-    <br><br>
-    <a href="https://github.com/spoons-and-mirrors/subtask2">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>swarm-tools</b> <img src="https://badgen.net/github/stars/joelhooks/swarm-tools" height="14"/> - <i>Multi-agent swarm coordination with learning, parallel agents, and Agent Mail.</i></summary>
-  <blockquote>
-    Multi-agent swarm coordination with learning, parallel agents, and Agent Mail.
-    <br><br>
-    <a href="https://github.com/joelhooks/swarm-tools">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Tokenscope</b> <img src="https://badgen.net/github/stars/ramtinJ95/opencode-tokenscope" height="14"/> - <i>Token analysis & cost tracking</i></summary>
-  <blockquote>
-    Tokenscope, Comprehensive token usage analysis and cost tracking for opencode sessions.
-    <br><br>
-    <a href="https://github.com/ramtinJ95/opencode-tokenscope">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>UNMOJI</b> - <i>Strips all emojis from agent outputs. Covers ~30,000 emojis.</i></summary>
-  <blockquote>
-    Strips all emojis from agent outputs. Covers ~30,000 emojis.
-    <br><br>
-    <a href="https://codeberg.org/bastiangx/opencode-unmoji">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>WakaTime</b> <img src="https://badgen.net/github/stars/angristan/opencode-wakatime" height="14"/> - <i>Track coding activity and time spent with WakaTime integration.</i></summary>
-  <blockquote>
-    Track coding activity and time spent with WakaTime integration.
-    <br><br>
-    <a href="https://github.com/angristan/opencode-wakatime">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -401,11 +107,128 @@
 </details>
 
 <details>
-  <summary><b>Zellij Namer</b> <img src="https://badgen.net/github/stars/24601/opencode-zellij-namer" height="14"/> - <i>AI-powered Zellij session naming based on project and context.</i></summary>
+  <summary><b>Opencode Skills</b> <img src="https://badgen.net/github/stars/malhashemi/opencode-skills" height="14"/> - <i>Manage skills and capabilities</i></summary>
   <blockquote>
-    AI-powered Zellij session naming based on project and context.
+    Plugin for managing and organising opencode skills and capabilities.
     <br><br>
-    <a href="https://github.com/24601/opencode-zellij-namer">🔗 <b>View Repository</b></a>
+    <a href="https://github.com/malhashemi/opencode-skills">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Openskills</b> <img src="https://badgen.net/github/stars/numman-ali/openskills" height="14"/> - <i>Alternative skills manager</i></summary>
+  <blockquote>
+    Alternative skills management plugin for opencode with enhanced features.
+    <br><br>
+    <a href="https://github.com/numman-ali/openskills">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Smart Title</b> <img src="https://badgen.net/github/stars/Tarquinen/opencode-smart-title" height="14"/> - <i>Auto-generate session titles</i></summary>
+  <blockquote>
+    Auto-generates meaningful session titles using AI.
+    <br><br>
+    <a href="https://github.com/Tarquinen/opencode-smart-title">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Background</b> <img src="https://badgen.net/github/stars/zenobi-us/opencode-background" height="14"/> - <i>Background process management</i></summary>
+  <blockquote>
+    Background process management plugin for opencode.
+    <br><br>
+    <a href="https://github.com/zenobi-us/opencode-background">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Dynamic Context Pruning</b> <img src="https://badgen.net/github/stars/Tarquinen/opencode-dynamic-context-pruning" height="14"/> - <i>Optimize token usage</i></summary>
+  <blockquote>
+    Plugin that optimises token usage by pruning obsolete tool outputs from conversation context.
+    <br><br>
+    <a href="https://github.com/Tarquinen/opencode-dynamic-context-pruning">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Tokenscope</b> <img src="https://badgen.net/github/stars/ramtinJ95/opencode-tokenscope" height="14"/> - <i>Token analysis & cost tracking</i></summary>
+  <blockquote>
+    Tokenscope, Comprehensive token usage analysis and cost tracking for opencode sessions.
+    <br><br>
+    <a href="https://github.com/ramtinJ95/opencode-tokenscope">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenAI Codex Auth</b> <img src="https://badgen.net/github/stars/numman-ali/opencode-openai-codex-auth" height="14"/> - <i>ChatGPT Plus/Pro OAuth</i></summary>
+  <blockquote>
+    This plugin enables opencode to use OpenAI's Codex backend via ChatGPT Plus/Pro OAuth authentication.
+    <br><br>
+    <a href="https://github.com/numman-ali/opencode-openai-codex-auth">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenHax Codex</b> <img src="https://badgen.net/github/stars/open-hax/codex" height="14"/> - <i>OAuth authentication</i></summary>
+  <blockquote>
+    OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions.
+    <br><br>
+    <a href="https://github.com/open-hax/codex">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Opencode Sessions</b> <img src="https://badgen.net/github/stars/malhashemi/opencode-sessions" height="14"/> - <i>Session management</i></summary>
+  <blockquote>
+    Session management plugin for OpenCode with multi-agent collaboration support.
+    <br><br>
+    <a href="https://github.com/malhashemi/opencode-sessions">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Opencode Roadmap</b> <img src="https://badgen.net/github/stars/IgorWarzocha/Opencode-Roadmap" height="14"/> - <i>Strategic planning</i></summary>
+  <blockquote>
+    Strategic roadmap planning and multi-agent coordination plugin. Provides project-wide planning capabilities.
+    <br><br>
+    <a href="https://github.com/IgorWarzocha/Opencode-Roadmap">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Gemini Auth</b> <img src="https://badgen.net/github/stars/jenslys/opencode-gemini-auth" height="14"/> - <i>Google account auth</i></summary>
+  <blockquote>
+    Authenticate the Opencode CLI with your Google account so you can use your existing Gemini plan.
+    <br><br>
+    <a href="https://github.com/jenslys/opencode-gemini-auth">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Direnv</b> <img src="https://badgen.net/github/stars/simonwjackson/opencode-direnv" height="14"/> - <i>Load direnv variables</i></summary>
+  <blockquote>
+    Automatically loads direnv environment variables at session start. Perfect for Nix flakes.
+    <br><br>
+    <a href="https://github.com/simonwjackson/opencode-direnv">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Oh My Opencode</b> <img src="https://badgen.net/github/stars/code-yeongyu/oh-my-opencode" height="14"/> - <i>Agents & Pre-built tools</i></summary>
+  <blockquote>
+    Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a Claude Code compatible layer.
+    <br><br>
+    <a href="https://github.com/code-yeongyu/oh-my-opencode">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Subtask2</b> <img src="https://badgen.net/github/stars/spoons-and-mirrors/subtask2" height="14"/> - <i>Orchestration system</i></summary>
+  <blockquote>
+    Extend opencode /commands into a powerful orchestration system with granular flow control.
+    <br><br>
+    <a href="https://github.com/spoons-and-mirrors/subtask2">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -420,15 +243,6 @@
 <details>
 <summary><strong>🎨 THEMES</strong></summary>
 <br>
-
-<details>
-  <summary><b>Ayu Dark</b> <img src="https://badgen.net/github/stars/postrednik/opencode-ayu-theme" height="14"/> - <i>Port of the popular Ayu Dark color scheme with golden yellow accent.</i></summary>
-  <blockquote>
-    Port of the popular Ayu Dark color scheme with golden yellow accent.
-    <br><br>
-    <a href="https://github.com/postrednik/opencode-ayu-theme">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
 
 <details>
   <summary><b>Poimandres Theme</b> <img src="https://badgen.net/github/stars/ajaxdude/opencode-ai-poimandres-theme" height="14"/> - <i>Poimandres theme</i></summary>
@@ -500,15 +314,6 @@
 </details>
 
 <details>
-  <summary><b>OpenChamber</b> <img src="https://badgen.net/github/stars/btriapitsyn/openchamber" height="14"/> - <i>Web/desktop GUI and VS Code extension with integrated terminal and multi-session support.</i></summary>
-  <blockquote>
-    Web/desktop GUI and VS Code extension with integrated terminal and multi-session support.
-    <br><br>
-    <a href="https://github.com/btriapitsyn/openchamber">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
   <summary><b>OC Context (occtx)</b> <img src="https://badgen.net/github/stars/hungthai1401/occtx" height="14"/> - <i>Switch contexts quickly</i></summary>
   <blockquote>
     A command-line tool for switching between different opencode contexts quickly.
@@ -541,15 +346,6 @@
     An OpenAI-Compatible Proxy Server for Qwen models.
     <br><br>
     <a href="https://github.com/aptdnfapt/qwen-code-oai-proxy">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Cupcake</b> <img src="https://badgen.net/github/stars/eqtylab/cupcake" height="14"/> - <i>Policy enforcement layer for AI coding agents using OPA/Rego compiled to Wasm.</i></summary>
-  <blockquote>
-    Policy enforcement layer for AI coding agents using OPA/Rego compiled to Wasm.
-    <br><br>
-    <a href="https://github.com/eqtylab/cupcake">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -688,24 +484,6 @@
     A simple command-line tool that turns your CLI tools, like opencode, into web applications.
     <br><br>
     <a href="https://github.com/sorenisanerd/gotty">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>OpenCode Config</b> <img src="https://badgen.net/github/stars/jjmartres/opencode" height="14"/> - <i>A powerful, custom OpenCode configuration with agents, skills, MCP servers, and themes.</i></summary>
-  <blockquote>
-    A powerful, custom OpenCode configuration with agents, skills, MCP servers, and themes.
-    <br><br>
-    <a href="https://github.com/jjmartres/opencode">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>Plugin Template</b> <img src="https://badgen.net/github/stars/zenobi-us/opencode-plugin-template" height="14"/> - <i>Generator for plugins with CICD, release-please, and mise tooling.</i></summary>
-  <blockquote>
-    Generator for plugins with CICD, release-please, and mise tooling.
-    <br><br>
-    <a href="https://github.com/zenobi-us/opencode-plugin-template">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
